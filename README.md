@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinchana22bs&label=Profile%20views&color=0e75b6&style=flat" alt="sinchana22bs" /> </p>
 
-- 🌱 I’m currently learning **Java,C++**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python , Mobile Application Development**
 
