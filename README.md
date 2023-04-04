@@ -1,3 +1,5 @@
+![sin](https://user-images.githubusercontent.com/112745555/229698585-bbb89e55-5f32-4f52-9ea0-a334f8f9d98d.png)
+
 <h1 align="center">Hi 👋, I'm Sinchana BS</h1>
 <h3 align="center">Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
