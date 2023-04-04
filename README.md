@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python , HTML, Mobile Application Development**
+- 💬 Ask me about **Python , HTML, Mobile Application Development, c**
 
 - 📫 How to reach me **sinchanabs91@gmail.com**
 
